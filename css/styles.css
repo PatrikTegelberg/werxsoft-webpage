@@ -11380,7 +11380,8 @@ p {
 #mainNav .navbar-nav .nav-item .nav-link {
   font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   font-size: 0.95rem;
-  color: #fff;
+  /* color: #fff; */
+  color: #aaa;
   letter-spacing: 0.0625em;
 }
 #mainNav .navbar-nav .nav-item .nav-link.active, #mainNav .navbar-nav .nav-item .nav-link:hover {
@@ -11434,7 +11435,10 @@ header.masthead {
   /* background-image: url("../assets/img/blackwaves.jpg"); */
   /* background-image: url("../assets/img/blackwaves_lq.webp"); */
   /* background-image: url("../assets/img/Masthead_pic_1_lq.webp"); */
-  background-image: url("../assets/img/Masthead_pic_1_lq.avif");
+  /* background-image: url("../assets/img/Masthead_pic_1_lq.avif"); */
+  /* background-image: url("../assets/img/SessionResults_1_crop_lq.webp"); */
+  /* background-image: url("../assets/img/Statistics_1_crop_lq.webp"); */
+  background-image: url("../assets/img/portfolio/Landscape_1_smaller_hq.webp");
   /* background-image: url("https://source.unsplash.com/wfh8dDlNFOk/1600x900"); */
   background-repeat: no-repeat;
   background-attachment: scroll;
